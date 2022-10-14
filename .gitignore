@@ -19,9 +19,6 @@ node_modules/
 .env.developmet
 .env.production
 
-# Docker
-docker-compose.yml
-
 # IDEs and platforms
 .idea/
 .vscode/*

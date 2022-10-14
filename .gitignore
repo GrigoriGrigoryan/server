@@ -1,0 +1,34 @@
+# Logs
+log
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Compiled files
+build/
+dist/
+
+# Dependency directories
+node_modules/
+
+# Environment
+.env
+.env.developmet
+.env.production
+
+# Docker
+docker-compose.yml
+
+# IDEs and platforms
+.idea/
+.vscode/*
+.DS_Store
+
+# Database
+db/
+
+# Tests
+coverage/

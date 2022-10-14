@@ -122,7 +122,7 @@ To get a local copy up and running follow these simple example steps.
 
 To Run project run command  
    ```sh
-    docker run build
+    docker-compose up
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
